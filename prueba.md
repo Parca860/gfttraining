@@ -4,3 +4,6 @@ creacion de una branch
 creacion y mergeando una branch
 merge con conflicto
 merge con conflicto 2
+
+prueba conflicto
+prueba 2
